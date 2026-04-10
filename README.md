@@ -4,7 +4,7 @@ Maybe this could help owners adjust to the growing advantages of AI and how they
 
 # RoboNav
 An RL-based autonomous navigation system where an agent learns 
-to navigate unknown environments through trial and error — 
+to navigate unknown environments through trial and error,
 trained entirely in simulation using ROS2, Gazebo, and PPO.
 
 ## The Story
