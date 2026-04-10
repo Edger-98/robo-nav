@@ -1,4 +1,4 @@
-# project 
+# Project 
 This was motivated by a news article where dogs were kidnapped and had to figure out a way back home. 
 Maybe this could help owners adjust to the growing advantages of AI and how they can use it to  train their pets.
 
